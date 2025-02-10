@@ -1,0 +1,41 @@
+Aeroporto di Partenza,Aeroporto di Arrivo,Orario di Partenza,Orario di Arrivo,Durata Volo (minuti),Città di Partenza,Città di Arrivo,Compagnia,Aeromobile
+VCE,LHR,2025-01-20 09:45:00,2025-01-20 20:41:00,656,Venezia,Londra,ANA,Airbus A330
+FCO,BCN,2025-01-20 10:00:00,2025-01-20 19:35:00,575,Roma,Barcellona,Vueling,Boeing 777
+NAP,AMS,2025-01-20 09:30:00,2025-01-20 20:31:00,661,Napoli,Amsterdam,Air France,Boeing 777
+MXP,FRA,2025-01-20 11:00:00,2025-01-20 14:50:00,230,Milano,Francoforte,British Airways,Airbus A330
+MXP,AMS,2025-01-20 19:30:00,2025-01-20 23:24:00,234,Milano,Amsterdam,Alitalia,Boeing 777
+VCE,BCN,2025-01-20 06:45:00,2025-01-20 12:31:00,346,Venezia,Barcellona,Air France,Boeing 737
+LIN,FRA,2025-01-20 14:30:00,2025-01-20 18:16:00,226,Milano,Francoforte,ANA,Boeing 787
+NAP,SYD,2025-01-20 10:30:00,2025-01-20 16:13:00,343,Napoli,Sydney,British Airways,Airbus A320
+VCE,AMS,2025-01-20 17:15:00,2025-01-21 03:36:00,621,Venezia,Amsterdam,Lufthansa,Airbus A350
+LIN,HND,2025-01-20 08:15:00,2025-01-20 09:59:00,104,Milano,Tokyo,Emirates,Airbus A350
+LIN,MAD,2025-01-20 20:30:00,2025-01-21 03:10:00,400,Milano,Madrid,Alitalia,Boeing 737
+NAP,AMS,2025-01-20 20:30:00,2025-01-21 02:28:00,358,Napoli,Amsterdam,Qantas,Boeing 777
+LIN,DXB,2025-01-20 15:30:00,2025-01-20 21:31:00,361,Milano,Dubai,British Airways,Boeing 737
+VCE,AMS,2025-01-20 21:15:00,2025-01-21 00:48:00,213,Venezia,Amsterdam,ANA,Boeing 737
+LIN,HND,2025-01-20 09:15:00,2025-01-20 12:42:00,207,Milano,Tokyo,Alitalia,Boeing 787
+MXP,DXB,2025-01-20 20:00:00,2025-01-21 07:03:00,663,Milano,Dubai,ANA,Airbus A330
+NAP,AMS,2025-01-20 16:00:00,2025-01-21 02:49:00,649,Napoli,Amsterdam,Lufthansa,Airbus A320
+LIN,BCN,2025-01-20 10:00:00,2025-01-20 18:57:00,537,Milano,Barcellona,Lufthansa,Airbus A350
+MXP,JFK,2025-01-20 13:45:00,2025-01-20 15:39:00,114,Milano,New York,Iberia,Airbus A350
+FCO,HND,2025-01-20 19:30:00,2025-01-20 20:58:00,88,Roma,Tokyo,ANA,Airbus A320
+FCO,CDG,2025-01-20 19:45:00,2025-01-21 06:09:00,624,Roma,Parigi,Emirates,Airbus A320
+VCE,HND,2025-01-20 14:30:00,2025-01-20 17:34:00,184,Venezia,Tokyo,Iberia,Boeing 777
+MXP,FRA,2025-01-20 09:30:00,2025-01-20 21:10:00,700,Milano,Francoforte,Emirates,Airbus A320
+MXP,AMS,2025-01-20 11:00:00,2025-01-20 16:27:00,327,Milano,Amsterdam,Qantas,Airbus A320
+FCO,MAD,2025-01-20 10:45:00,2025-01-20 13:44:00,179,Roma,Madrid,KLM,Boeing 737
+VCE,SYD,2025-01-20 21:45:00,2025-01-21 04:37:00,412,Venezia,Sydney,Alitalia,Airbus A330
+VCE,SYD,2025-01-20 09:15:00,2025-01-20 12:19:00,184,Venezia,Sydney,Emirates,Airbus A330
+LIN,CDG,2025-01-20 18:30:00,2025-01-21 02:37:00,487,Milano,Parigi,British Airways,Airbus A350
+NAP,JFK,2025-01-20 11:15:00,2025-01-20 15:06:00,231,Napoli,New York,Vueling,Airbus A350
+NAP,FRA,2025-01-20 14:30:00,2025-01-20 18:11:00,221,Napoli,Francoforte,Iberia,Airbus A320
+VCE,SYD,2025-01-20 11:15:00,2025-01-20 18:34:00,439,Venezia,Sydney,British Airways,Airbus A320
+LIN,SYD,2025-01-20 14:15:00,2025-01-20 16:01:00,106,Milano,Sydney,Air France,Boeing 737
+FCO,FRA,2025-01-20 10:00:00,2025-01-20 14:24:00,264,Roma,Francoforte,Vueling,Airbus A330
+LIN,BCN,2025-01-20 17:45:00,2025-01-20 23:25:00,340,Milano,Barcellona,Vueling,Airbus A350
+NAP,HND,2025-01-20 22:15:00,2025-01-21 07:39:00,564,Napoli,Tokyo,ANA,Boeing 777
+VCE,JFK,2025-01-20 15:45:00,2025-01-21 01:42:00,597,Venezia,New York,Lufthansa,Airbus A330
+VCE,FRA,2025-01-20 06:30:00,2025-01-20 09:13:00,163,Venezia,Francoforte,Lufthansa,Boeing 777
+FCO,MAD,2025-01-20 07:30:00,2025-01-20 10:37:00,187,Roma,Madrid,British Airways,Boeing 787
+NAP,SYD,2025-01-20 15:00:00,2025-01-20 16:16:00,76,Napoli,Sydney,KLM,Boeing 777
+VCE,AMS,2025-01-20 13:00:00,2025-01-21 00:22:00,682,Venezia,Amsterdam,Qantas,Boeing 737
